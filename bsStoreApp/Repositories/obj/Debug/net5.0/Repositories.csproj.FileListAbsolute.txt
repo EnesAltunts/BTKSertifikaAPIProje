@@ -1,0 +1,15 @@
+C:\Users\krln_\bsStoreApp\Repositories\bin\Debug\net5.0\Repositories.deps.json
+C:\Users\krln_\bsStoreApp\Repositories\bin\Debug\net5.0\Repositories.dll
+C:\Users\krln_\bsStoreApp\Repositories\bin\Debug\net5.0\ref\Repositories.dll
+C:\Users\krln_\bsStoreApp\Repositories\bin\Debug\net5.0\Repositories.pdb
+C:\Users\krln_\bsStoreApp\Repositories\bin\Debug\net5.0\Entities.dll
+C:\Users\krln_\bsStoreApp\Repositories\bin\Debug\net5.0\Entities.pdb
+C:\Users\krln_\bsStoreApp\Repositories\obj\Debug\net5.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\krln_\bsStoreApp\Repositories\obj\Debug\net5.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krln_\bsStoreApp\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\krln_\bsStoreApp\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfo.cs
+C:\Users\krln_\bsStoreApp\Repositories\obj\Debug\net5.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\krln_\bsStoreApp\Repositories\obj\Debug\net5.0\Repositories.csproj.CopyComplete
+C:\Users\krln_\bsStoreApp\Repositories\obj\Debug\net5.0\Repositories.dll
+C:\Users\krln_\bsStoreApp\Repositories\obj\Debug\net5.0\ref\Repositories.dll
+C:\Users\krln_\bsStoreApp\Repositories\obj\Debug\net5.0\Repositories.pdb
